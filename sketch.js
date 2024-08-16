@@ -6,8 +6,8 @@ function setup() {
   function draw() {
    
     
-    stroke ('blue');
-    fill ("red");
+    stroke ('black');
+    fill ("white");
     
     if (mouseIsPressed){
       
